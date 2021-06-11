@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 📫 How to reach me: developmentdesignsltd@gmail.com ...
+- :zap: Portflio Website: https://lukeponga.website
+
 <!--
 **lukeponga-dev/lukeponga-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
