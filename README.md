@@ -1,6 +1,6 @@
 ### Hi there i'm Luke 👋
 
-#### :heavy_check_mark: Software Developer
+#### :heavy_check_mark: Fullstack Software Developer
 - 📫 How to reach me: developmentdesignsltd@gmail.com ...
 - :zap: Portflio Website: https://lukeponga.website
 
