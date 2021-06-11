@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there i'm Luke 👋
 
+#### :heavy_check_mark: Software Developer
 - 📫 How to reach me: developmentdesignsltd@gmail.com ...
 - :zap: Portflio Website: https://lukeponga.website
 
