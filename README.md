@@ -1,10 +1,9 @@
-### Hi there i'm Luke 👋
+## Hi there i'm Luke 👋
 
-#### :heavy_check_mark: Fullstack Software Developer, 
-- 💻 looking for someone to collaborate with? awesome email me:
-developmentdesignsltd@gmail.com
+### :heavy_check_mark: Graduated Software Developer 
+- 💻 looking for someone to collaborate with? awesome [email me](mailto:developmentdesignsltd@gmail.com)
 - :zap: Portflio Website: 
-https://lukeponga.website
+[Here!](https://lukeponga.website)
 
 <!--
 **lukeponga-dev/lukeponga-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
