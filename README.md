@@ -1,9 +1,16 @@
-## Hi there i'm Luke 👋
+<h1 align="center"> Hi! I'm <a href="https://in.linkedin.com/in/lukepongs"><b>Luke Ponga</b></a>.
+<h3 align="center">IT Engineer | Web/App Developer | ISTQB Certified Tester </h3>
+</h1>
+<h3> <a href="https://visioncollege.ac.nz/study/information-technology/"> <b>ATC Vision College</b></a></em>, New Zealand.<br><br>
+Give me a problem and I'll return you a solution</h3>
+<h4></h4>
+I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project..
+<br>
 
-### :heavy_check_mark: Graduated Software Developer 
-- 💻 looking for someone to collaborate with? awesome [email me](mailto:developmentdesignsltd@gmail.com)
-- :zap: Portflio Website: 
-[Here!](https://lukeponga.website)
+[Email me!](mailto:developmentdesignsltd@gmail.com)
+
+<br>
+  <a href="https://lukeponga.website">:zap: Portflio Website</a>
 
 <!--
 **lukeponga-dev/lukeponga-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
