@@ -1,7 +1,7 @@
 <h1 align="center"> Hi! I'm <a href="https://in.linkedin.com/in/lukepongs"><b>Luke Ponga</b></a>.
 <h3 align="center">IT Engineer | Web/App Developer | ISTQB Certified Tester </h3>
 </h1>
-<h3> <b>The University Of Waikato</b></em>, BCompSc.<br>
+<h3>Studying at <a href="https://www.waikato.ac.nz/"><b>The University Of Waikato</b></em>, BCompSc.<br>
 <h3> <a href="https://visioncollege.ac.nz/study/information-technology/"> <b>ATC Vision College</b></a></em>, New Zealand.<br><br>
 Give me a problem and I'll return you a solution</h3>
 <h4></h4>
