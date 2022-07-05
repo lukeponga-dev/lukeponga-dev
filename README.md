@@ -11,7 +11,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 [Email me!](mailto:developmentdesignsltd@gmail.com)
 
 <br>
-  <a href="https://lukeponga.website">:zap: Portflio Website</a>
+  <a href="https://lukeponga-portfolio.netlify.app/">:zap: Portflio Website</a>
 
 <!--
 **lukeponga-dev/lukeponga-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
