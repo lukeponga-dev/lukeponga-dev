@@ -39,3 +39,12 @@ I’m focused on sharpening my skills in **backend development**, **machine lear
 
 ### 🌍 Making a Positive Impact  
 Ultimately, I want to build tools that matter. Whether it’s simplifying tasks for everyday users or enabling smarter systems, I’m driven to create software that helps people and sparks change.
+
+## TECH STACK
+```mermaid
+graph LR
+A[Front-End] --> HTML
+A --> CSS
+A --> JavaScript
+B[Testing] --> ISTQB
+B --> Jest
