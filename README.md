@@ -20,10 +20,6 @@ Azure
 <li>React Native</li>
   </ul>
 
-### Experience Level
-
-
-
 ### Education
 Level 6 Diploma at ATC Vision College
 - February 1, 2020 - March 31, 2021
