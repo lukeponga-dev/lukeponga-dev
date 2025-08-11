@@ -1,22 +1,54 @@
+# Profile
 
-# About Me
+Hi, I’m **Luke**, an aspiring .NET developer with a solid foundation in software and web development. 
 
-👋 Kia ora! I'm Luke Ponga — a passionate software developer from Hamilton, New Zealand, with diplomas in Software Development and Web Development & Design. I'm deeply curious about the future of tech, especially in **AI**, **IoT**, **Web3**, and **data stream processing**. Here’s a look into my journey and aspirations:
+> I’m passionate about problem-solving and eager to apply my technical skills to contribute to IT projects.
 
----
+I consider myself a quick learner with a positive attitude, always adaptable to new technologies and environments. I’m looking for opportunities to grow my expertise in database management and to help ensure smooth system operations.
 
-## Education
+### Skills
+<ul>
+<li>
+Microsoft Office
+</li>
+  <li>
+    C#, JavaScript, SQL, .NET, CSS, HTML5
+  </li>
+  <li>
+Azure    
+  </li>
+<li>React Native</li>
+  </ul>
 
-- **Diploma in Software Development (Level 6)** – *ATC Vision College*  
-  - Learned core programming languages including **C#**, **Java**, and **SQL**.  
-  - Gained experience with software architecture, object-oriented principles, and data handling.  
-  - Built practical applications and collaborated on development projects.
+### Experience Level
 
-- **Diploma in Web Development & Design (Level 5)** – *ATC Vision College*  
-  - Focused on frontend technologies like **HTML**, **CSS**, and **JavaScript**.  
-  - Learned to design and develop responsive, user-focused websites.  
-  - Explored UI/UX principles and accessibility in modern web development.
 
+
+### Education
+Level 6 Diploma at ATC Vision College
+- February 1, 2020 - March 31, 2021
+
+Level 5 Diploma at ATC Vision College
+- February 1, 2019 - March 31, 2021
+
+Level 3 Certificate at ATC Vision College
+- June 1, 2018 - December 31, 2018
+
+### Qualifications
+ISTQB Certified Tester Foundation Level (CTFL)
+- January 1, 2021 - December 31, 2021
+
+Microsoft Build: Natural Language AI Certificate
+- January 1, 2023 - December 31, 2023
+
+Generative AI in 2025 - CodeSignal
+- January 1, 2025 - December 31, 2025
+  - Learned to design and develop
+  responsive, user-focused websites.
+  - Explored UI/UX principles and
+    accessibility in modern web
+    development.
+    
 ---
 
 ## Passion and Goals
