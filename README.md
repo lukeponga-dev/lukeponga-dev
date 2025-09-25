@@ -1,31 +1,45 @@
-# Profile
+# 👨‍💻 Luke Ponga — Software Developer
 
-Hi, I’m **Luke**, an aspiring .NET developer with a solid foundation in software and web development. 
+Welcome! I'm Luke, a backend-focused developer based in Hamilton, New Zealand. I specialize in building scalable systems, secure configurations, and clean workflows using technologies like .NET, SQL, Azure, and React Native.
 
-> I’m passionate about problem-solving and eager to apply my technical skills to contribute to IT projects.
+## 🚀 About Me
 
-I consider myself a quick learner with a positive attitude, always adaptable to new technologies and environments. I’m looking for opportunities to grow my expertise in database management and to help ensure smooth system operations.
+I thrive on solving real-world problems through structured code and automation. Whether it's optimizing performance, troubleshooting complex environments like Xamarin, or designing intuitive dashboards, I bring clarity, precision, and curiosity to every project.
 
-### Skills
-<ul>
-<li>
-Microsoft Office
-</li>
-  <li>
-    C#, JavaScript, SQL, .NET, CSS, HTML5
-  </li>
-  <li>
-Azure    
-  </li>
-<li>React Native</li>
-  </ul>
+Beyond tech, I’m committed to community service—volunteering in retail, hospice, and digital support roles. I believe in learning by doing and contributing meaningfully through both paid and volunteer opportunities.
 
-### Education
-Level 6 Diploma at ATC Vision College
-- February 1, 2020 - March 31, 2021
+## 🧰 Technical Toolbox
 
-Level 5 Diploma at ATC Vision College
-- February 1, 2019 - March 31, 2021
+- **Backend & API**: .NET, C#, Java, Python, RESTful APIs
+- **Frontend & Mobile**: React Native, JavaScript/TypeScript, HTML/CSS, Tailwind CSS
+- **Database & Cloud**: SQL, Azure, Supabase, Firebase
+- **AI & Automation**: Generative AI, Google Genkit
+- **System Design**: Clean architecture, workflow optimization
+
+## 📦 Featured Projects
+
+| Project                | Stack Used                                      | Description |
+|------------------------|--------------------------------------------------|-------------|
+| **JobTrakr**           | Next.js, Supabase, Tailwind, Google AI          | Job application dashboard with AI insights |
+| **CryptoStats**        | React, JavaScript, API                          | Cryptocurrency tracking (details coming soon) |
+| **Vehicle Management API** | C#, .NET, SQL                             | RESTful API for vehicle data |
+| **NZ Tourism Website** | HTML, CSS, JS, Bootstrap                        | Interactive tourism showcase |
+| **NASA APOD Viewer**   | JS, HTML/CSS, NASA API                          | Astronomy photo viewer |
+| **AI Chat Interface**  | Next.js, TypeScript, Genkit AI                  | Intelligent chat UI |
+| **Xamarin Mobile App** | C#, Xamarin                                     | Cross-platform mobile development |
+
+## 🎓 Education & Certifications
+
+- **Diploma in Software Development** – Vision College (Level 6)
+- **Diploma in Web Development & Design** – Vision College (Level 5)
+- **Cert. in Business Admin & Technology** – Vision College (Level 3)
+- **Generative AI Certificate** – CodeSignal
+- **Microsoft Build Natural Language AI Certificate**
+
+---
+
+📫 **Let’s build something that matters.**  
+Feel free to explore my work, connect, or download my resume.- February 1, 2019 - March 31, 2021
 
 Level 3 Certificate at ATC Vision College
 - June 1, 2018 - December 31, 2018
