@@ -1,54 +1,46 @@
 # 👨‍💻 Luke Ponga
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F76A1F&width=435&lines=Full-stack+developer;7%2B+years+of+coding+experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F76A1F&width=440&lines=Full-stack+developer;7%2B+years+of+coding+experience)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lukeponga-dev&color=blue)
 ![Followers](https://img.shields.io/github/followers/lukeponga-dev?style=social)
 ![Stars](https://img.shields.io/github/stars/lukeponga-dev?style=social)
 
----
-
 ## 🚀 About Me
-Hi, I’m Luke — a backend‑focused software developer based in Hamilton, New Zealand. I specialize in building **scalable systems**, **secure configurations**, and **clean workflows** using technologies like **.NET**, **SQL**, **Azure**, and **React Native**.
-
-I love solving real‑world problems through structured code and automation. Whether it’s optimizing performance, navigating complex environments like Xamarin, or designing intuitive dashboards, I bring clarity, curiosity, and precision to every project.
-
-Outside of development, I’m committed to community service through volunteer work in retail, hospice, and digital support roles.
-
----
+Hi, I’m a software developer based in Hamilton, New Zealand. I love solving real‑world problems through structured code and automation. Whether it’s optimizing performance, navigating complex environments like Xamarin, or designing intuitive dashboards, I bring clarity, curiosity, and precision to every project.
 
 ## 🧰 Tech Stack
 
 ### **Languages & Backend**
 | Icon | Tech |
 |------|------|
-| 🟦 | C# / .NET |
-| ☕ | Java |
-| 🐍 | Python |
-| 🔗 | REST APIs |
+| <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="24"/> | C# / .NET |
+| <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="24"/> | Java |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="24"/> | Python |
+| <img src="https://cdn-icons-png.flaticon.com/512/2883/2883849.png" width="24"/> | REST APIs |
+
 
 ### **Frontend & Mobile**
 | Icon | Tech |
 |------|------|
-| ⚛️ | React & React Native |
-| 🟨 | JavaScript / TypeScript |
-| 🎨 | HTML / CSS / Tailwind |
+| <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="24"/> | React & React Native |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="24"/> | JavaScript / TypeScript |
+| <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="24"/> | HTML / CSS / Tailwind |
 
 ### **Database & Cloud**
 | Icon | Tech |
 |------|------|
-| 🗄️ | SQL |
-| ☁️ | Azure |
-| 🔥 | Firebase |
-| 🟣 | Supabase |
+| <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="24"/> | SQL |
+| <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="24"/> | Azure |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" width="24"/> | Firebase |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968890.png" width="24"/> | Supabase |
 
 ### **AI & Automation**
 | Icon | Tech |
 |------|------|
-| 🤖 | Generative AI |
-| 🔧 | Google Genkit |
-| 🧩 | Workflow Automation |
-
+| <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" width="24"/> | Generative AI |
+| <img src="https://cdn-icons-png.flaticon.com/512/4712/4712108.png" width="24"/> | Google Genkit |
+| <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="24"/> | Workflow Automation |
 ---
 
 ## 🎓 Education & Certifications
@@ -58,6 +50,7 @@ Outside of development, I’m committed to community service through volunteer w
 - 🧪 ISTQB Certified Tester Foundation Level (CTFL)  
 - 🤖 Microsoft Build: Natural Language AI Certificate  
 - 🧠 Generative AI Certificate — CodeSignal  
+
 
 ---
 
@@ -80,3 +73,8 @@ Deepening expertise in backend engineering, machine learning, and cloud infrastr
 ## 📫 Let’s Build Something That Matters
 Feel free to explore my work, connect, or download my resume.  
 Always open to meaningful projects, collaborations, and opportunities.
+
+>Icons from https://www.flaticon.com  
+Java icons created by Freepik  
+Other icons created by various Flaticon authors
+>
