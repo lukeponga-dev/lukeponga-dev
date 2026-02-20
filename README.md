@@ -1,4 +1,6 @@
-# 👨‍💻 Luke Ponga — Software Developer
+# 👨‍💻 Luke Ponga
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F76A1F&width=435&lines=Full-stack+developer;7%2B+years+of+coding+experience)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lukeponga-dev&color=blue)
 ![Followers](https://img.shields.io/github/followers/lukeponga-dev?style=social)
