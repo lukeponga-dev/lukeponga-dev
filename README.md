@@ -1,92 +1,80 @@
 # 👨‍💻 Luke Ponga — Software Developer
 
-Welcome! I'm Luke, a backend-focused developer based in Hamilton, New Zealand. I specialize in building scalable systems, secure configurations, and clean workflows using technologies like .NET, SQL, Azure, and React Native.
+![Profile Views](https://komarev.com/ghpvc/?username=lukeponga-dev&color=blue)
+![Followers](https://img.shields.io/github/followers/lukeponga-dev?style=social)
+![Stars](https://img.shields.io/github/stars/lukeponga-dev?style=social)
+
+---
 
 ## 🚀 About Me
+Hi, I’m Luke — a backend‑focused software developer based in Hamilton, New Zealand. I specialize in building **scalable systems**, **secure configurations**, and **clean workflows** using technologies like **.NET**, **SQL**, **Azure**, and **React Native**.
 
-I thrive on solving real-world problems through structured code and automation. Whether it's optimizing performance, troubleshooting complex environments like Xamarin, or designing intuitive dashboards, I bring clarity, precision, and curiosity to every project.
+I love solving real‑world problems through structured code and automation. Whether it’s optimizing performance, navigating complex environments like Xamarin, or designing intuitive dashboards, I bring clarity, curiosity, and precision to every project.
 
-Beyond tech, I’m committed to community service—volunteering in retail, hospice, and digital support roles. I believe in learning by doing and contributing meaningfully through both paid and volunteer opportunities.
+Outside of development, I’m committed to community service through volunteer work in retail, hospice, and digital support roles.
 
-## 🧰 Technical Toolbox
+---
 
-- **Backend & API**: .NET, C#, Java, Python, RESTful APIs
-- **Frontend & Mobile**: React Native, JavaScript/TypeScript, HTML/CSS, Tailwind CSS
-- **Database & Cloud**: SQL, Azure, Supabase, Firebase
-- **AI & Automation**: Generative AI, Google Genkit
-- **System Design**: Clean architecture, workflow optimization
+## 🧰 Tech Stack
 
-## 📦 Featured Projects
+### **Languages & Backend**
+| Icon | Tech |
+|------|------|
+| 🟦 | C# / .NET |
+| ☕ | Java |
+| 🐍 | Python |
+| 🔗 | REST APIs |
 
-| Project                | Stack Used                                      | Description |
-|------------------------|--------------------------------------------------|-------------|
-| **JobTrakr**           | Next.js, Supabase, Tailwind, Google AI          | Job application dashboard with AI insights |
-| **CryptoStats**        | React, JavaScript, API                          | Cryptocurrency tracking (details coming soon) |
-| **Vehicle Management API** | C#, .NET, SQL                             | RESTful API for vehicle data |
-| **NZ Tourism Website** | HTML, CSS, JS, Bootstrap                        | Interactive tourism showcase |
-| **NASA APOD Viewer**   | JS, HTML/CSS, NASA API                          | Astronomy photo viewer |
-| **AI Chat Interface**  | Next.js, TypeScript, Genkit AI                  | Intelligent chat UI |
-| **Xamarin Mobile App** | C#, Xamarin                                     | Cross-platform mobile development |
+### **Frontend & Mobile**
+| Icon | Tech |
+|------|------|
+| ⚛️ | React & React Native |
+| 🟨 | JavaScript / TypeScript |
+| 🎨 | HTML / CSS / Tailwind |
+
+### **Database & Cloud**
+| Icon | Tech |
+|------|------|
+| 🗄️ | SQL |
+| ☁️ | Azure |
+| 🔥 | Firebase |
+| 🟣 | Supabase |
+
+### **AI & Automation**
+| Icon | Tech |
+|------|------|
+| 🤖 | Generative AI |
+| 🔧 | Google Genkit |
+| 🧩 | Workflow Automation |
+
+---
 
 ## 🎓 Education & Certifications
-
-- **Diploma in Software Development** – Vision College (Level 6)
-- **Diploma in Web Development & Design** – Vision College (Level 5)
-- **Cert. in Business Admin & Technology** – Vision College (Level 3)
-- **Generative AI Certificate** – CodeSignal
-- **Microsoft Build Natural Language AI Certificate**
+- 🎓 NZ Diploma in Software Development (Level 6)  
+- 🎓 NZ Diploma in Web Development & Design (Level 5)  
+- 🧾 Certificate in Business Admin & Technology  
+- 🧪 ISTQB Certified Tester Foundation Level (CTFL)  
+- 🤖 Microsoft Build: Natural Language AI Certificate  
+- 🧠 Generative AI Certificate — CodeSignal  
 
 ---
 
-📫 **Let’s build something that matters.**  
-Feel free to explore my work, connect, or download my resume.- February 1, 2019 - March 31, 2021
+## 🌱 Passion & Goals
 
-Level 3 Certificate at ATC Vision College
-- June 1, 2018 - December 31, 2018
-
-### Qualifications
-ISTQB Certified Tester Foundation Level (CTFL)
-- January 1, 2021 - December 31, 2021
-
-Microsoft Build: Natural Language AI Certificate
-- January 1, 2023 - December 31, 2023
-
-Generative AI in 2025 - CodeSignal
-- January 1, 2025 - December 31, 2025
-  - Learned to design and develop
-  responsive, user-focused websites.
-  - Explored UI/UX principles and
-    accessibility in modern web
-    development.
-    
----
-
-## Passion and Goals
-
-### 🔧 Innovation and Real-World Solutions  
-I'm excited by building systems that solve real problems — from smart automation using IoT to creating decentralized tools with Web3. Whether it's a mobile app or an interactive website, I love crafting clean, effective code.
+### 🔧 Innovation & Real‑World Solutions  
+Building systems that solve real problems — from IoT automation to decentralized Web3 tools.
 
 ### 📚 Lifelong Learning  
-Tech evolves fast — and I’m all in. I’m currently exploring AI and backend infrastructure, and experimenting with projects that use blockchain, real-time data, and smart contracts.
+Exploring backend infrastructure, AI, blockchain, and real‑time systems.
 
-### 🤝 Collaboration and Growth  
-I enjoy working with other passionate people, sharing ideas, and learning together. Whether it’s through GitHub contributions or chatting with other devs online, I believe growth comes through community.
+### 🤝 Collaboration  
+I enjoy contributing to open‑source, sharing ideas, and learning with other developers.
+
+### 🚀 Future Focus  
+Deepening expertise in backend engineering, machine learning, and cloud infrastructure.
 
 ---
 
-## Future Endeavors
-
-### 🚀 Deepening Technical Expertise  
-I’m focused on sharpening my skills in **backend development**, **machine learning**, and **cloud infrastructure**. My goal is to become a well-rounded developer who can move fluidly between frontend polish and backend logic.
-
-### 🌍 Making a Positive Impact  
-Ultimately, I want to build tools that matter. Whether it’s simplifying tasks for everyday users or enabling smarter systems, I’m driven to create software that helps people and sparks change.
-
-## TECH STACK
-```mermaid
-graph LR
-A[Front-End] --> HTML
-A --> CSS
-A --> JavaScript
-B[Testing] --> ISTQB
-B --> Jest
+## 📫 Let’s Build Something That Matters
+Feel free to explore my work, connect, or download my resume.  
+Always open to meaningful projects, collaborations, and opportunities.
