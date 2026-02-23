@@ -6,6 +6,14 @@
 ![Followers](https://img.shields.io/github/followers/lukeponga-dev?style=social)
 ![Stars](https://img.shields.io/github/stars/lukeponga-dev?style=social)
 
+<p align="left">
+      <a href="https://www.linkedin.com/in/lukeponga/" target="_blank">
+         <img alt="linkedin profile" title="Linkedin Profile" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-56a7d1?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+      <a href="https://dev.to/lukeponga" target="_blank">
+         <img alt="devto profile" title="Devto Profile" src="https://custom-icon-badges.demolab.com/badge/-Dev.to-A020F0?style=for-the-badge&logo=code-review&logoColor=white"/></a> 
+    
+   </p>
+
 ## 🚀 About Me
 Hi, I’m a software developer based in Hamilton, New Zealand. I love solving real‑world problems through structured code and automation. Whether it’s optimizing performance, navigating complex environments like Xamarin, or designing intuitive dashboards, I bring clarity, curiosity, and precision to every project.
 
